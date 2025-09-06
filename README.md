@@ -1,12 +1,13 @@
 # Yuri Souza  
-### 👨‍💻 Futuro Analista de Dados  
+### 👨‍💻 Analista de Dados em formação  
 
 Olá! Sou o Yuri Souza, tenho 23 anos e sou de Campinas/SP.  
 Estudo Análise de Dados e sou apaixonado por transformar dados em informações que geram valor.
 
-Concluí o curso de Análise de Dados do Google e venho aplicando os conhecimentos adquiridos em projetos práticos, com foco em análise exploratória, visualização de dados e storytelling com dados.
+Concluí o curso Google Data Analytics e aplico os conhecimentos em projetos práticos, com foco em análise exploratória, visualização de dados e storytelling. Atualmente, continuo meus estudos na plataforma Xperiun (certificação reconhecida pelo MEC).
 
-Busco oportunidades onde eu possa evoluir como profissional e gerar impacto através de soluções baseadas em dados.
+Busco minha primeira oportunidade como Analista de Dados, onde eu possa evoluir profissionalmente e contribuir para decisões estratégicas baseadas em dados.
+
 
 ---
 
